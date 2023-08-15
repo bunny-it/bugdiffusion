@@ -1,0 +1,6 @@
+aiogram
+diffusers
+pillow
+torch
+numpy
+opencv-python
