@@ -11,7 +11,7 @@ Telegram bot using stable diffusion on GPU to create images.
 
 
 ### Software
-- Python <= 3.11
+- Python >= 3.11
 - python-pip
 - miniconda
 
