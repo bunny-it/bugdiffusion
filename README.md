@@ -39,7 +39,7 @@ Telegram bot using stable diffusion on GPU to create images.
 
 Now start by sending an image to your bot. If you want to include a prompt send the image with a caption.
 
-Hafe fun!
+Have fun!
 
 
-** - bunny **
+__bunny__
